@@ -1,0 +1,12 @@
+100,kader,arslan
+101,mine,baser
+102,dicle,inceler
+103,hayrunnnisa,ece
+104,ali,korkmaz
+105,mert,aydin
+106,seyma,tip
+107,necla,ozdemir
+108,alper,yildiz
+109,eda,nazli
+110,mustafa,cetin
+111,esra,kilic

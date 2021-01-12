@@ -1,0 +1,5 @@
+500,kozmos,carl sagan,bilim,1980,$20.00
+501,ask,elif safak,roman,2009,$25.00
+502,simyaci,paulo coelho,roman,1996,$20.00
+503,istanbul'dan Sayfalar,ilber ortayli,tarih,1986,$30.00
+504,suc ve ceza,dostoyevski,roman,1866,$30.00
